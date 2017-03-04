@@ -1,4 +1,1 @@
-# CS231n
-Assignments of the CS231n Convolutional Neural Networks for Visual Recognition
-All the three assignments have been finished, but some parametes of the bonus part in assignments are not good enough.
-Include all the source code.
+Details about this assignment can be found [on the course webpage](http://cs231n.github.io/), under Assignment #1 of Winter 2016.
