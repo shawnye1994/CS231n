@@ -1,0 +1,4 @@
+test = []
+for i in range(100):
+    test.append(i)
+print test
